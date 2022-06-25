@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding :0px;
+    
+}
+
+.logo {
+    padding-top: 100px;
+    text-align: center;
+}
+.buttons button {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.box1{
+    padding-top: 10px;
+    text-align: center;
+
+    background-color: rgb(205, 203, 203);
+    height: 100px;
+}
+
+
+.box2{
+    padding-top: 50px;
+    text-align: center;
+    background-color: rgb(94, 172, 175);
+    width: 40%;
+    height: 150px;
+    display: inline-block;
+    float: none;
+    margin: 2px;
+}
+.box3{
+    padding-top: 50px;
+    text-align: center;
+    background-color: aqua;
+    width: 24% ;
+    height: 150px;
+    float: right;
+    margin: 2px;
+    
+}
+
+.box4{
+    padding-top: 50px;
+    text-align: center;
+    background-color: rgb(108, 206, 206);
+    height: 150px;
+    width: 35%;
+    float: right;
+    margin: 2px;
+}
+.end{
+    text-align: center;
+}
